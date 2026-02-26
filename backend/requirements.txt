@@ -1,0 +1,2 @@
+fastapi
+snowflake-connector-python
