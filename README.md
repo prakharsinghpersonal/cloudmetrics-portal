@@ -1,1 +1,1 @@
-# cloudmetrics-portal\n\n**CloudMetrics: Full-Stack Data Portal - End-to-end web application delivering real-time telemetry analytics.**\n\n## Tech Stack\n- React\n- TypeScript\n- Python\n- Snowflake\n- REST API\n
+# cloudmetrics-portal
